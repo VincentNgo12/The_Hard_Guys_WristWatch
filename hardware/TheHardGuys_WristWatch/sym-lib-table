@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "esp32_30pin_revised")(type "KiCad")(uri "C:/Users/Vincent Ngo/Documents/KiCad/9.0/projects/The_Hard_Guys_WristWatch/hardware/libraries/symbols/esp32_30pin_revised.kicad_sym")(options "")(descr ""))
+)
