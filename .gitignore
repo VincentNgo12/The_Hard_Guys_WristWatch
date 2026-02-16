@@ -38,3 +38,33 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+
+# ESP-IDF Build artifacts
+firmware/build/
+firmware/CMakeCache.txt
+firmware/CMakeFiles/
+
+# ESP-IDF generated files
+firmware/sdkconfig.old
+firmware/bootloader/
+firmware/project_description.json
+
+# Compiler outputs
+*.o
+*.elf
+*.map
+*.bin
+*.hex
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode clutter
+.vscode/
+*.code-workspace
+
+# IDF Tools (do NOT commit!)
+/.idf-env.json
